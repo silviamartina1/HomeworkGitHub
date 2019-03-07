@@ -12,7 +12,8 @@ np.random.uniform(0,1)
 
 for i in range(0,4):
 {
-print(i)
+print(I++)
 }
 
 #print number from 1 to 4
+
