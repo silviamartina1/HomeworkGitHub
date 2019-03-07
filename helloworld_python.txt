@@ -7,3 +7,5 @@ std::cout << "I'm a Python program";
 Import numpy as np
 
 Import Matplotlib 
+
+np.random.uniform(0,1)
