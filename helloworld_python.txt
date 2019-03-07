@@ -6,6 +6,12 @@ std::cout << "I'm a Python program";
 #let's start by importing libraries
 Import numpy as np
 
-Import Matplotlib 
+Import Matplotlib  
 
 np.random.uniform(0,1)
+
+for i in range(0,4):
+{
+print(i)
+}
+
